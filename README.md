@@ -5,7 +5,4 @@
 - 📫 How to reach me prasadbotta@789gmail.com
 
 
-<--
-its a simple todo list using flutter framework 
- in future i going to update it with some new features 
---->
+
